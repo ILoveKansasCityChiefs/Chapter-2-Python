@@ -1,3 +1,4 @@
+# July 3,2026
 friends = ['Adryan', 'Malakiyah', 'Darbyn', 'Meekdad', 'Michael']
 print(friends[0])
 print(friends[1])
